@@ -5,4 +5,4 @@ Intro to Unity: Make games and apps for any platform
 Andrew Frueh
 2014/11/12
 
-Download a ZIP to get all the resources for this workshop.
+All the resources for this workshop.
